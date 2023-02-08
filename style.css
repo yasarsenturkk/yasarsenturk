@@ -1,0 +1,80 @@
+body{
+    background-color: black;
+    color: white;
+}
+.img{
+    padding: 90px 90px;
+    border: 3px solid red
+    text-align: center
+}
+.inst{
+    margin-left: 20px;
+}
+.git{
+    margin-left: 20px;
+}
+h1{
+    padding: 0px 70px;
+}
+h2{
+    padding: 0px;
+}
+.patates{
+    text-align: left;
+}
+
+a{
+    color: white;
+}
+.ling{
+    margin-left: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+.solak{
+    margin-left: 125px
+}
+.kutu1{
+   width: 400px ;
+   height: 1000px;
+ 
+   float: left;
+}
+
+.domates{
+    text-align: center;
+}
+.kutu2{
+    width: 1487px ;
+    height: 1000px;
+    
+    float: right;
+ }
+ .patlican{
+    margin-top: 250px;
+ }
+ .yakinda{
+    margin-top: 400px;
+ }
+ .giris{
+    margin-top: 350px;
+ }
+ .iletisim{
+    margin-top: 300px;
+ }
+ .is{
+    margin-top: 60px;
+ }
+ .egitim{
+    margin-top: 60px;
+ }
+ .cv{
+    margin-top: 60px;
+ }
+ .altcizgi{
+    text-decoration-line: underline;
+ }
+ .logo2{
+    padding-right: 15px;
+ }
